@@ -1,5 +1,5 @@
 {
-  "name": "vscode-offline-config",
+  "name": "vscode-packages-downloader",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
